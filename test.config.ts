@@ -9,5 +9,4 @@ password="test@123"
 productName="MacBook"
 productQuantity="2"
 totalPrice="$1,204.00"
-
 }
