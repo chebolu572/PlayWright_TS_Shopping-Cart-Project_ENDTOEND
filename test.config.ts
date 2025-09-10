@@ -2,8 +2,8 @@ export class TestConfig{
 appUrl="https://tutorialsninja.com/demo/"
 
 //valid login credentials- create your own login account
-email="pavanol@abc.com"
-password="test@123"
+email="automationlayoff@gmail.com"
+password="Google@123"
 
 //product details
 productName="MacBook"
