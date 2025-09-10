@@ -10,7 +10,6 @@
  * 4) Agree to Privacy Policy and submit the form
  * 5) Validate the confirmation message
  */
-
 import { test, expect } from '@playwright/test';
 import { HomePage } from '../pages/HomePage';
 import { RegistrationPage } from '../pages/RegistrationPage';
